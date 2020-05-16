@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+#result{
+    position: relative;
+    width: 350px;
+    margin: 20px auto;
+}
+#thingsaboutme{
+    position: relative;
+    width: 320px;
+    margin: 10px auto;
+}
+h1{
+    position: relative;
+    margin: auto auto;
+    width: fit-content;
+}
+#heading{
+    position: relative;
+    color: white;
+    background-color: red;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+}
+#the{
+    position: relative;
+    font-size: 35px;
+    left: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h2{
+    position: relative;
+    margin-left: 10px;
+}
+em{
+    font-weight: 700;
+}

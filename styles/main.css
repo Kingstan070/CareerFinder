@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(334.31deg, #1CA2CC 22.25%, rgba(28, 162, 204, 0) 65.03%);
+}
+.wrap{
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.heading{
+    position: relative;
+    width: 220px;
+    font-size: 30px;
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    line-height: 1.1;
+    left: 20px;
+    top: 20px;    
+}
+.subheading{
+    position: relative;
+    float: right;
+    font-size: 20px;
+    width: 220px;
+    text-align: right;
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-stretch: expanded;
+    right: 30px;
+    top: 8px;
+}
+
+/* For the button */
+.buttonarea{
+    position: relative;
+    width: 200px;
+    height:200px;
+    float: left;
+}
+.button{
+    position: relative;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #00F0FF;
+    box-shadow: 4px 4px 4px rgb(58, 54, 54),
+     -4px -4px 4px rgb(231, 220, 220);
+    left: 30px;
+    top: 20px;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+}
+.startwrap{
+    position: relative;
+    width: 150px;
+    float: left;
+    left: 5px;
+}
+.button p{
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    font-size: 30px;
+    font-weight: 1000;
+    margin: 0 0;
+    top: 10px;
+    left: 40px;    
+}
+.vectorimage{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 2 2 2 2;
+    align-content: center;
+}
+svg{
+    position: relative;
+    top: 32%;
+}
